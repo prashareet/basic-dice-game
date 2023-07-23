@@ -1,4 +1,4 @@
-alert("Press ok to play!");
+alert("Press ok to play!, refresh the page to play again!");
 var randomNumber1 = Math.floor(Math.random()*6)+1;
 var randomNumber2 = Math.floor(Math.random()*6)+1;
 
